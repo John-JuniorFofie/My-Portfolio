@@ -1,0 +1,98 @@
+ <!-- <script>
+        var dev="sigma";
+        switch(dev){
+        case 1:
+        console.log("she is slim");
+        break;
+        case 2:    
+        break;
+        console.log("she is diferent");
+        default:
+            console.log("this is real");
+     
+        } -->
+        // //Array//
+        //let sammy =["gum","100 sites","Writer"];
+        // // sammy.splice(1,2,"lie"); exchange
+        // // sammy.pop(2);
+         //   sammy.sort()
+        // // sammy.push("meaa") backwards
+        //sammy[sammy.length] = "Lemon"; add
+        //sammy[10] = 'bar'; add
+        //typeof sammy;
+        //Array.isArray(sammy);
+        //console.log(sammy);
+        //
+        // var sammy =[];
+        // sammy[0]=['john'];
+        // sammy[1]=['Akua'];
+        // var x= sammy[0];
+        // var y= sammy[1];
+        // console.log(y); different way
+
+        //array: number indexes: objects named indexes;
+
+        ////looping a function
+        //  function loop(){
+        //     let array = ['monday','tuesday', 'wednesday'];
+        //  for (let a =0; a < Array.length;a++){
+        //    console.log(Array[a]);
+        //  }
+        // loop()
+        //  }
+        //hoisting
+        // John();
+        // function John(){
+        // let x="wow";
+        // console.log(x)
+        // }
+        
+        
+        //parameters and argumenst
+        // function sum(x,y){
+        //     console.log(x);
+        //     console.log(y);
+        // }
+        // sum(2, 6)
+
+        // const firstname="John";
+        // const lastname="Fofie";
+        
+        // name(firstname, lastname)
+        // function name(firstname, lastname){
+        //     console.log(firstname)
+        // }
+
+        //Arrow function
+        // const food1 =(rice, beans) => rice + beans;
+        // console.log(food1(32,44));
+        
+        //conditional statements
+
+        // let John = 13
+        // if (John >= 18){
+        //     console.log("he is matured");
+        // }
+        //     else{
+        //         console.log('he is a minor')
+        //     }
+        // let score = prompt("enter your score");
+        <!-- // if(score>= 90&& score<=100){
+        //     console.log("your grade is A")
+        // }
+        // else if(score>=80&& score <100){
+        //console.log("your grade is B");
+        // }
+        
+        //object properties
+    const about={
+    mood:"sad,",
+    doings:"listen to music",
+    Feelings:"happy",
+    after:"sleep",
+    done:"code.",
+}
+    delete about.after;
+    console.log("Any time I feel"+" "+about.mood+" "+"I"+" "+about.doings+" "+"and that makes me feel"+" "+about.Feelings+" "+"After that, I"+" "+about.after+" "+"and when I wake up, I"+" "+about.done )
+        
+        </script> -->
