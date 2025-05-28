@@ -1,0 +1,629 @@
+@media screen and (min-width:426px) and (max-width:768px) {
+ .first{
+    height: 400px;
+ }   
+ .intro{
+  gap:20px; 
+ }
+ .img img{
+    height: 200px;
+ }
+ .text{
+  h3{
+    font-size:25px;
+  }  
+ }
+ .button {
+    margin-top: 20px;
+    button{
+    width:150px;
+    margin-top: 20px;
+    a{
+        font-size: 11px;
+    }
+ }
+}
+.about{
+    height: 900px;
+}
+.divide{
+    img{
+        height: 300px;
+    }
+}
+.formlike{
+    p{
+        font-size: 10px;
+    }
+}
+.add{
+    font-size: 10px;
+    line-height: 20px;
+}
+.note{
+    p{
+        font-size:12px;
+        
+    }
+}
+.line{
+    display: flex;
+    color:white
+}
+.red{
+ height:13px;
+width: 300px;
+background-color:orangered;
+}
+.gray{
+   height:13px;
+    width:50px;
+    background-color:gray;   
+}
+#cssred{
+    height:13px;
+    width: 250px;;   
+}
+#cssgray{
+    height:13px;
+    width:100px;   
+}
+#jsred{
+   height:13px;
+    width:200px;   
+}
+#jsgray{
+   height:13px;
+    width:150px;   
+}
+#fred{
+   height:13px;
+    width: 200px;
+}
+#gfrey{
+ height:13px;
+    width:50px;
+}
+.bigger{
+    margin-top: 100px;
+}
+.contain{
+ 
+    h3{
+    font-size: 15px;
+    /* text-align: center; */
+ }
+ p{
+    font-size: 12px;
+ }
+ 
+}
+.form{
+    justify-content: center;
+    h2{
+    font-size:20px;
+    }
+    p{
+        font-size: 12px;
+    }
+    }
+  
+    .bigger{
+        
+    }
+    nav ul{
+        gap:20px;
+        flex-direction: column;
+    }
+   .quick{
+     p{
+        font-size:10px;
+        text-align: center;
+    }
+   }
+    .copy{
+        text-align: center;
+    }
+ }
+ @media screen and (min-width:376px) and (max-width:425px){
+   .first{
+    height: 400px;
+ }   
+ .intro{
+   margin-top: 50px;
+   gap:10px;
+ }
+ .img img{
+    height: 250px;
+ }
+ .text{
+  h3{
+    font-size:25px;
+  }  
+ }
+ .button {
+    margin-top: 20px;
+    button{
+    width:100px;
+    margin-top: 20px;
+    a{
+        font-size: 11px;
+    }
+ }
+}
+.about{
+    height: 1000px;
+}
+.skills{
+    margin-top:350px;
+    gap:30px;
+    /* height: 2000px; */
+}
+.note{
+    width: 350px;
+    p{
+    /* text-align: center; */
+  }
+  h3{
+    /* text-align: center; */
+  }
+}
+.divide{
+    img{
+        height: 300px;
+    }
+}
+.formlike{
+    h2{
+        text-align: center;
+    }
+    p{
+        width:250px;
+        font-size: 13px;
+        padding:0;
+    }
+}
+.add{
+    font-size: 10px;
+    line-height: 20px;
+    /* text-align: center; */
+}
+.note p{
+    
+        font-size:12px;
+    
+}
+.line{
+    display: flex;
+    color:white
+}
+.red{
+ height:13px;
+width: 300px;
+background-color:orangered;
+}
+.gray{
+   height:13px;
+    width:50px;
+    background-color:gray;   
+}
+#cssred{
+    height:13px;
+    width: 250px;;   
+}
+#cssgray{
+    height:13px;
+    width:100px;   
+}
+#jsred{
+   height:13px;
+    width:200px;   
+}
+#jsgray{
+   height:13px;
+    width:150px;   
+}
+#fred{
+   height:13px;
+    width: 200px;
+}
+#gfrey{
+ height:13px;
+    width:50px;
+}
+.details{
+    margin-top: 900px;
+    height: 1200px;
+}
+.bigger{
+    margin-top: 100px;
+}
+.contain{
+ 
+    h3{
+    font-size: 15px;
+    /* text-align: center; */
+ }
+ p{
+    font-size: 12px;
+ }
+ 
+}
+.form{
+    justify-content: center;
+    h2{
+    font-size:20px;
+    }
+    p{
+        font-size: 12px;
+    }
+    }
+  
+  .bigger{
+    justify-content:center;
+    gap:20px;
+  }
+    nav ul{
+        gap:20px;
+        flex-direction: column;
+    }
+   .quick{
+     p{
+        font-size:10px;
+        text-align: center;
+    }
+   }
+    .copy{
+        text-align: center;
+    }  
+    .contact{
+        justify-content: center;
+    }
+ }
+ @media screen and (min-width:321px) and (max-width:375px){
+    .first{
+    height: 400px;
+ }   
+ .intro{
+   margin-top: 50px;
+   gap:10px;
+ }
+ .img img{
+    height: 250px;
+ }
+ .text{
+  h3{
+    font-size:25px;
+  }  
+ }
+ .button {
+    margin-top: 20px;
+    button{
+    width:100px;
+    margin-top: 20px;
+    a{
+        font-size: 11px;
+    }
+ }
+}
+.about{
+    height: 1000px;
+}
+.skills{
+    margin-top:350px;
+    gap:30px;
+    height: 700px;
+}
+.note{
+    width: 350px;
+    p{
+    /* text-align: center; */
+  }
+  h3{
+    /* text-align: center; */
+  }
+}
+
+.pic{ 
+img{
+        height: 300px;
+    }
+ }
+
+.formlike{
+    h2{
+        text-align: center;
+    }
+    p{
+       width:200px;
+        font-size: 13px;
+        padding:0;
+    }
+}
+.add{
+    font-size: 10px;
+    line-height: 20px;
+    /* text-align: center; */
+}
+.note p{
+    
+        font-size:12px;
+    
+}
+.line{
+    display: flex;
+    color:white
+}
+.red{
+ height:13px;
+width: 300px;
+background-color:orangered;
+}
+.gray{
+   height:13px;
+    width:50px;
+    background-color:gray;   
+}
+#cssred{
+    height:13px;
+    width: 250px;;   
+}
+#cssgray{
+    height:13px;
+    width:100px;   
+}
+#jsred{
+   height:13px;
+    width:200px;   
+}
+#jsgray{
+   height:13px;
+    width:150px;   
+}
+#fred{
+   height:13px;
+    width: 200px;
+}
+#gfrey{
+ height:13px;
+    width:50px;
+}
+.details{
+    margin-top: 900px;
+    height: 1200px;
+}
+.bigger{
+    margin-top: 100px;
+}
+.contain{
+ 
+    h3{
+    font-size: 15px;
+    /* text-align: center; */
+ }
+ p{
+    font-size: 12px;
+ }
+ 
+}
+.form{
+    justify-content: center;
+    width: 350px;
+   
+    h2{
+    font-size:20px;
+    }
+    p{
+        font-size: 12px;
+    }
+    }
+    .write1{
+        justify-content: center;
+    }
+  .person input{
+    width: 250px;
+    text-align: center; 
+  }
+    .persons input{
+    width: 250px;
+    text-align: center;
+  }
+  #message{
+ width: 250px;
+    text-align: center;   
+  }
+  .bigger{
+    justify-content:center;
+    gap:20px;
+  }
+    nav ul{
+        gap:20px;
+        flex-direction: column;
+    }
+   .quick{
+     p{
+        font-size:10px;
+        text-align: center;
+    }
+   }
+    .copy{
+        text-align: center;
+    }  
+    .contact{
+        justify-content: center;
+    }   
+ }
+ @media screen and (max-width:320px){
+    .first{
+    height: 400px;
+ }   
+ .intro{
+   margin-top: 50px;
+   gap:10px;
+ }
+ .img img{
+    height: 250px;
+ }
+ .text{
+  h3{
+    font-size:25px;
+  }  
+ }
+ .button {
+    margin-top: 20px;
+    button{
+    width:100px;
+    margin-top: 20px;
+    a{
+        font-size: 11px;
+    }
+ }
+}
+.about{
+    height: 1000px;
+}
+.skills{
+    margin-top:350px;
+    gap:30px;
+    width:100%;
+    /* height: 2000px; */
+}
+.note{
+    width: 350px;
+    p{
+    /* text-align: center; */
+  }
+  h3{
+    /* text-align: center; */
+  }
+}
+
+.pic{ 
+img{
+        height: 300px;
+    }
+ }
+
+.formlike{
+    h2{
+        text-align: center;
+    }
+    p{
+       width:200px;
+        font-size: 13px;
+        padding:0;
+    }
+}
+.add{
+    font-size: 10px;
+    line-height: 20px;
+    /* text-align: center; */
+}
+.note p{
+    
+        font-size:12px;
+    
+}
+.line{
+    display: flex;
+    color:white
+}
+.red{
+ height:13px;
+width: 250px;
+background-color:orangered;
+}
+.gray{
+   height:13px;
+    width:50px;
+    background-color:gray;   
+}
+#cssred{
+    height:13px;
+    width: 200px;;   
+}
+#cssgray{
+    height:13px;
+    width:100px;   
+}
+#jsred{
+   height:13px;
+    width:170px;   
+}
+#jsgray{
+   height:13px;
+    width:130px;   
+}
+#fred{
+   height:13px;
+    width: 200px;
+}
+#gfrey{
+ height:13px;
+    width:50px;
+}
+.details{
+    margin-top: 900px;
+    height: 1200px;
+}
+.bigger{
+    margin-top: 100px;
+}
+.contain{
+ 
+    h3{
+    font-size: 15px;
+    /* text-align: center; */
+ }
+ p{
+    font-size: 12px;
+ }
+ 
+}
+.form{
+    justify-content: center;
+    width: 350px;
+   
+    h2{
+    font-size:20px;
+    }
+    p{
+        font-size: 12px;
+    }
+    }
+    .write1{
+        justify-content: center;
+    }
+  .person input{
+    width: 250px;
+    text-align: center; 
+  }
+    .persons input{
+    width: 250px;
+    text-align: center;
+  }
+  #message{
+ width: 250px;
+    text-align: center;   
+  }
+  .bigger{
+    justify-content:center;
+    gap:20px;
+  }
+    nav ul{
+        gap:20px;
+        flex-direction: column;
+    }
+   .quick{
+     p{
+        font-size:10px;
+        text-align: center;
+    }
+   }
+    .copy{
+        text-align: center;
+    }  
+    .contact{
+        justify-content: center;
+    }     
+ }
